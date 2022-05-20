@@ -2720,7 +2720,7 @@ span.ico-holder {
 #div-01 { background-image: url(../images/divider-01.jpg); }
 #div-02 { background-image: url(../images/divider-02.jpg); }
 #div-03 { background-image: url(../images/divider-03.jpg); }
-#div-04 { background-image: url(../images/divider-04.jpg); }
+#div-04 { background-image: url(../images/divider-04.webp); }
 #div-05 { background-image: url(../images/divider-05.jpg); }
 
 
@@ -3893,7 +3893,7 @@ span.ico-holder {
 }
 
 #reviews-1.bg-image {
-  background-image: url(../images/reviews.jpg);
+  background-image: url(../images/reviews.webp);
 }
 
 /*------------------------------------------*/
@@ -4080,7 +4080,7 @@ span.ico-holder {
   margin-top: 40px;
 }
 
-#banner-4 {
+#entrega {
   background-image: url(../images/banner-4.jpg);
   background-position: bottom center;
 }
@@ -5241,11 +5241,11 @@ select:-webkit-autofill:focus {
 
 /*------------------------------------------*/
 /*  FOOTER LOGO
-/*------------------------------------------*/
+/*------------------------------------------
 
 .footer-logo {
   margin-bottom: 30px;
-}
+}*/
 
 #footer-4 .footer-logo {
   margin-bottom: 15px;
